@@ -14,4 +14,4 @@ Creating an dashboard where departments, roles and employees can be organized.
 
 ## Repository
 
-<https://github.com/Kenjib32/Note-Week-11-Challenge>
+<https://github.com/Kenjib32/Employee-Week-12-Challenge>
